@@ -11,3 +11,5 @@ cd .\app1\
 dotnet add reference ..\app2\app2.csproj
 
 ```
+
+use add_ref_project.zip
