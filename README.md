@@ -18,10 +18,13 @@ dotnet sln [slnFiIeName] add [csproj-file-path ]
 
 dotnet sln myProject.sln add Web/Web.csproj
 ```
+----------------------------------------------
 
+```
+dotnet new console --use-program-main -o mytwo
+```
 
-
-
+----------------------------------------------
 <br>
 
 https://youtu.be/PmDJIooZjBE
