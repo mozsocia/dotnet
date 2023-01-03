@@ -25,6 +25,10 @@ dotnet new console --use-program-main -o mytwo
 ```
 
 ----------------------------------------------
+
+cli tutorial
+https://youtube.com/playlist?list=PLaFzfwmPR7_LbzROMMDFsoo0JA-emIvKc 
+
 <br>
 
 https://youtu.be/PmDJIooZjBE
