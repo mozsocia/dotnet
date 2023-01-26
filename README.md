@@ -1,5 +1,5 @@
 # dotnet
-
+https://youtube.com/playlist?list=PLaFzfwmPR7_IPzBR4AI0eoojmIdTFJmHs
 
 To create sln file — 
 
