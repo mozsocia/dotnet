@@ -10,3 +10,6 @@ https://dev.mysql.com/doc/connector-net/en/connector-net-entityframework-core-ex
 
 
 https://stackoverflow.com/questions/48703318/mysql-data-entityframeworkcore-vs-pomelo-entityframeworkcore-mysql
+
+
+https://www.daveops.co.in/post/code-first-entity-framework-core-mysql
