@@ -1,38 +1,12 @@
 # dotnet
-https://youtube.com/playlist?list=PLaFzfwmPR7_IPzBR4AI0eoojmIdTFJmHs
 
-To create sln file — 
+Introduction to Entity Framework Core | ASP.NET Core 5.0 Web API Tutoria 
+<br>
+https://www.youtube.com/watch?v=d_cgfYokNAk&list=PLaFzfwmPR7_IPzBR4AI0eoojmIdTFJmHs&index=83
 
-```
-dotnet new sln [options]
-
-dotnet new sln -name myProject
-```
-
-
-To add project to sln we use following command —-
-
-```
-
-dotnet sln [slnFiIeName] add [csproj-file-path ]
-
-dotnet sln myProject.sln add Web/Web.csproj
-```
-----------------------------------------------
-
-```
-dotnet new console --use-program-main -o mytwo
-```
-
-----------------------------------------------
-
-cli tutorial
-https://youtube.com/playlist?list=PLaFzfwmPR7_LbzROMMDFsoo0JA-emIvKc 
 
 <br>
+https://dev.mysql.com/doc/connector-net/en/connector-net-entityframework-core-example.html
 
-https://youtu.be/PmDJIooZjBE
 
-<br>
-
-https://youtu.be/bgk8N_rx1F4?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
+https://stackoverflow.com/questions/48703318/mysql-data-entityframeworkcore-vs-pomelo-entityframeworkcore-mysql
