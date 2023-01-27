@@ -1,6 +1,16 @@
-# dotnet
+### dotnet
+# .NET 5 REST API Tutorial with docker and kubernates
+https://youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
+
+<br>
+<br>
+
+some indian normal type video 
 https://youtube.com/playlist?list=PLaFzfwmPR7_IPzBR4AI0eoojmIdTFJmHs
 
+-------------------------------
+--------------------------------------
+----------------------
 To create sln file — 
 
 ```
@@ -25,14 +35,17 @@ dotnet new console --use-program-main -o mytwo
 ```
 
 ----------------------------------------------
+<br>
+<br>
 
-cli tutorial
+### NET Core 3.0 fundamentals  (cli tutorial )
+
 https://youtube.com/playlist?list=PLaFzfwmPR7_LbzROMMDFsoo0JA-emIvKc 
 
 <br>
 
+### Industry Level REST API using .NET 6 – Tutorial for Beginners
 https://youtu.be/PmDJIooZjBE
 
 <br>
 
-https://youtu.be/bgk8N_rx1F4?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS
