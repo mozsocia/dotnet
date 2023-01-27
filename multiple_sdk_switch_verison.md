@@ -1,4 +1,6 @@
-You can do this with a `global.json` file in the root of your project:
+### Go to https://dotnet.microsoft.com/en-us/download/dotnet and download multiple exe and install them all
+
+You can do this with a `global.json` file, cmd `dotnet new globaljson` in the root of your project:
 
 -   Verify the list of SDKs on your machine:
 
