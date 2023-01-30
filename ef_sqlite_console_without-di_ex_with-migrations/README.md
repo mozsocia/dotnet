@@ -44,7 +44,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 5.  Create a new folder named "Models" and in that folder add a new class "MyDbContext" that inherits from the DbContext class. This class should include a DbSet property for each table in your database and the connection string.
 
 ```
-c#using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyApp.Models
 {
@@ -65,7 +65,7 @@ namespace MyApp.Models
 6.  Create model classes for your tables in the same folder.
 
 ```
-c#using System;
+using System;
 
 namespace MyApp.Models
 {
@@ -92,7 +92,7 @@ namespace MyApp.Models
 7.  In the Main method of your Program.cs file, you can use the DbContext class to perform CRUD operations on the data.
 
 ```
-c#using (var db = new MyDbContext())
+using (var db = new MyDbContext())
 {
     // Add new person
     var person = new Person { FirstName = "John", LastName = "Doe", Age = 30 };
@@ -145,7 +145,7 @@ MyApp/
 `MyDbContext.cs`:
 
 ```
-c#using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyApp.Models
 {
@@ -166,7 +166,7 @@ namespace MyApp.Models
 `Person.cs`:
 
 ```
-c#namespace MyApp.Models
+namespace MyApp.Models
 {
     public class Person
     {
@@ -182,7 +182,7 @@ c#namespace MyApp.Models
 `Address.cs`:
 
 ```
-c#namespace MyApp.Models
+namespace MyApp.Models
 {
     public class Address
     {
@@ -199,7 +199,7 @@ c#namespace MyApp.Models
 `Program.cs`:
 
 ```
-c#using System;
+using System;
 using MyApp.Models;
 
 namespace MyApp
